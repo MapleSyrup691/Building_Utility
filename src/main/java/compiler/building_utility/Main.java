@@ -23,7 +23,7 @@ public class Main {
             fileFunctions.createDefaultJson(dvdata);
             log("no dvdata found. creating default");
             exit();
-        } 
+        }
 
         // extract and configer json data
         String jsonContent;
