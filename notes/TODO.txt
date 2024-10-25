@@ -1,4 +1,5 @@
 high priority:
+    sniff drugs
 
 mid priority:
     make vehicles align to user when teleporting
